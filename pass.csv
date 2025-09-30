@@ -1,0 +1,8 @@
+Attack Type,Description,Prevention Method,Effectiveness_Against_Weak_Passwords
+Brute Force,Trying all possible password combinations systematically,"Long, complex passwords with account lockout policies",Very High
+Dictionary Attack,Using common words and phrases from dictionaries,Avoid common words; use random passphrases,High
+Credential Stuffing,Using stolen credentials from data breaches,Unique passwords for each account; enable MFA,High
+Phishing,Tricking users into revealing passwords through fake websites,Security awareness training; verify website authenticity,Very High
+Keylogger,Recording keystrokes to capture passwords,Antivirus software; avoid suspicious downloads,Very High
+Rainbow Table,Using precomputed hash tables to crack password hashes,Strong password hashing with salt; unique passwords,Medium
+Password Spraying,Using common passwords against multiple accounts,Account lockout policies; avoid common passwords,High
